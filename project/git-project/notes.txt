@@ -1,3 +1,1 @@
-Hello 
-Added new feature 
-Bug fixed 
+This is my first Git project.
